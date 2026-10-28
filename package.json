@@ -24,12 +24,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bhargav-tibadiya/lumalog.git"
+    "url": "https://github.com/bhargavtibadiya/lumalog.git"
   },
   "bugs": {
-    "url": "https://github.com/bhargav-tibadiya/lumalog/issues"
+    "url": "https://github.com/bhargavtibadiya/lumalog/issues"
   },
-  "homepage": "https://github.com/bhargav-tibadiya/lumalog#readme",
+  "homepage": "https://github.com/bhargavtibadiya/lumalog#readme",
   "devDependencies": {
     "tsup": "^8.3.5",
     "typescript": "^4.9.5"
